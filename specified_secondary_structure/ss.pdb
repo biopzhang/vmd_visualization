@@ -1,0 +1,11 @@
+HELIX    1 I   THR P    5  PHE P   19  1                                1CLL 130
+HELIX    2 II  THR P   29  ARG P   37  1                                1CLL 131
+HELIX    3 III GLU P   45  VAL P   55  1                                1CLL 132
+HELIX    4 IV  PHE P   65  PHE P   92  1 SEE REMARK 6                   1CLL 133
+HELIX    5 V   ALA P  102  ASN P  111  1                                1CLL 134
+HELIX    6 VI  ASP P  118  ALA P  128  1                                1CLL 135
+HELIX    7 VII TYR P  138  THR P  146  1                                1CLL 136
+SHEET    1 S1  2 ILE P  27  THR P  29  0                                1CLL 137
+SHEET    2 S1  2 ILE P  63  PHE P  65 -1  N  ILE    63   O  ILE    27   1CLL 138
+SHEET    1 S2  2 ILE P 100  ALA P 102  0                                1CLL 139
+SHEET    2 S2  2 VAL P 136  TYR P 138 -1  N  VAL   136   O  ILE   100   1CLL 140
